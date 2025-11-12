@@ -45,7 +45,7 @@
 
 ### 🌐 Conecte-se comigo
 
-<p align="center">
+<p align="left">
   <a href="https://www.instagram.com"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
   <a href="https://www.linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
   <a href="https://discord.gg"><img src="https://skillicons.dev/icons?i=discord" width="40"/></a>
