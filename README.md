@@ -46,10 +46,10 @@
 ### 🌐 Conecte-se comigo
 
 <p align="center">
-  <a href="https://www.instagram.com/SEUINSTAGRAM"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
-  <a href="https://www.linkedin.com/in/SEULINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
-  <a href="https://discord.gg/SEUSERVIDOR"><img src="https://skillicons.dev/icons?i=discord" width="40"/></a>
-  <a href="mailto:SEUEMAIL@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
+  <a href="https://www.instagram.com"><img src="https://skillicons.dev/icons?i=instagram" width="40"/></a>
+  <a href="https://www.linkedin.com"><img src="https://skillicons.dev/icons?i=linkedin" width="40"/></a>
+  <a href="https://discord.gg"><img src="https://skillicons.dev/icons?i=discord" width="40"/></a>
+  <a href="@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
 </p>
 
 ---
