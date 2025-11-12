@@ -9,7 +9,7 @@
 
 ### ⚙️ Linguagens e Tecnologias
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nodejs,express,mongodb,supabase,sqlite,docker,cloudflare,ubuntu,discordjs&perline=8" />
   </a>
@@ -27,7 +27,7 @@
 
 ### 📊 Estatísticas GitHub
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=aimlock-js&show_icons=true&theme=radical" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimlock-js&layout=compact&theme=radical" height="165"/>
 </p>
