@@ -27,38 +27,18 @@
 
 ### 📊 Estatísticas GitHub
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=aimlock-js&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimlock-js&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-
-<!-- <p align="center">
-
-
+<p align="center">
 
   <img 
     src="https://github-readme-stats.vercel.app/api?username=aimlock-js&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" 
     height="165"
-  /> 
+  />
 
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=aimlock-js&layout=compact&langs_count=6&theme=tokyonight&hide=c,cpp,java" 
     height="165"
   />
-</p> -->
+</p>
 
 
 ---
